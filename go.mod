@@ -1,4 +1,4 @@
-module github.com/myntra/pipeline
+module github.com/0xdeadbad/pipeline
 
 go 1.21.5
 
